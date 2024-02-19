@@ -1,4 +1,4 @@
-# blood_sugar
+# blood_sug
 
 A new Flutter project.
 

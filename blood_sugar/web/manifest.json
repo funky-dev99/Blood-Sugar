@@ -1,6 +1,6 @@
 {
-    "name": "blood_sugar",
-    "short_name": "blood_sugar",
+    "name": "blood_sug",
+    "short_name": "blood_sug",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

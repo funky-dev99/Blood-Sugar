@@ -1,4 +1,4 @@
-package com.example.blood_sugar
+package com.example.blood_sug
 
 import io.flutter.embedding.android.FlutterActivity
 

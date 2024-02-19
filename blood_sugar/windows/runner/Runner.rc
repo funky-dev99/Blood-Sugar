@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "blood_sugar" "\0"
+            VALUE "FileDescription", "blood_sug" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "blood_sugar" "\0"
+            VALUE "InternalName", "blood_sug" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "blood_sugar.exe" "\0"
-            VALUE "ProductName", "blood_sugar" "\0"
+            VALUE "OriginalFilename", "blood_sug.exe" "\0"
+            VALUE "ProductName", "blood_sug" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
